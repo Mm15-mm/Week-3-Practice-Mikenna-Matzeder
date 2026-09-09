@@ -20,3 +20,8 @@ img {
 h1 {
     color:#FACB37;
 }
+aside {
+    background: #d83124;
+    color: #f6f6f4;
+    border: 6px solid #111111;
+}
