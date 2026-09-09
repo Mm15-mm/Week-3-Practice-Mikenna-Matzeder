@@ -1,5 +1,5 @@
 body {
-    background-color: #f6f6f4;
+    background: #f6f6f4;
     color: #111111;
 } 
 nav {
@@ -7,9 +7,10 @@ nav {
     color:#111111;
     border: 6px solid #111111;
 }
+
 header {
     background: #3153D1;
-    color: #111111
+    color: #f6f6f4;
     border: 6px solid #111111;
 }
 img {
@@ -34,7 +35,7 @@ main {
 }
 article {
     background: #ffffff;
-    border: 3px solid #D83134;
+    border: 3px solid #111111;
 }
 section {
     background: #FACB37;
@@ -45,4 +46,10 @@ h2 {
 }
 h3 {
     color: #3153D1;
+}
+footer {
+    background: #111111;
+    color: #f6f6f4;
+    border: 6px solid #FACB37;
+    height: 260px;
 }
