@@ -22,7 +22,7 @@ h1 {
 }
 aside {
     background: #d83124;
-    color: #f6f6f4;
+    color: #111111;
     border: 6px solid #111111;
 }
 
@@ -37,7 +37,7 @@ article {
     border: 3px solid #D83134;
 }
 section {
-    background: #ffffff;
+    background: #FACB37;
     border: 6px solid #D83134;
 }
 h2 {
