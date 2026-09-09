@@ -9,7 +9,7 @@ nav {
 }
 header {
     background: #3153D1;
-    color: #f6f6f4;
+    color: #111111
     border: 6px solid #111111;
 }
 img {
@@ -22,7 +22,7 @@ h1 {
 }
 aside {
     background: #d83124;
-    color: #111111;
+    color: #f6f6f4;
     border: 6px solid #111111;
 }
 
